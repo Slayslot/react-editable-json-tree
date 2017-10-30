@@ -1,5 +1,5 @@
 {
-  "name": "react-editable-json-tree",
+  "name": "kt-schema-creator",
   "version": "1.7.1",
   "description": "React Editable Json Tree",
   "main": "dist/JsonTree.js",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:oxyno-zeta/react-editable-json-tree.git"
+    "url": "git@github.com:slayslot/react-editable-json-tree.git"
   },
   "author": "Oxyno-zeta",
   "license": "See LICENSE.md",
